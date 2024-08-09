@@ -52,56 +52,68 @@
 
 </br>
 
-<!-- 
+
 
 ## 📌 구현 페이지 및 프리뷰
 
-**1️⃣ 홈 화면 페이지**
+### 1️⃣ 홈 화면 페이지
 
-- 펫 정보 등록, 추천 챌린지, 펫톡 인기글, 검진 키트 결과보기
+펫 정보 등록, 추천 챌린지, 펫톡 인기글, 검진 키트 결과보기</br>
+<img src="./home.gif" width="350px"></br>
 
+<!--
   <details>
     <summary>프리뷰</summary>
-    <img src="./src/assets/readme/home.gif" width="350px">
-    
+    <img src="./home.gif" width="350px">
   </details>
+-->
 
-**2️⃣ 챌린지 페이지**
+### 2️⃣ 챌린지 페이지
 
-- 내 포인트 정보, 포인트샵, 이벤트 챌린지, 데일리 챌린지, 챌린지 인증, 챌린지 상세페이지
+내 포인트 정보, 포인트샵, 이벤트 챌린지, 데일리 챌린지, 챌린지 인증, 챌린지 상세페이지</br>
+<img src="./challenge.gif" width="350px"></br>
 
+<!--
   <details>
     <summary>프리뷰</summary>
-    <img src="./src/assets/readme/challenge.gif" width="350px">
+    <img src="./challenge.gif" width="350px">
   </details>
+-->
 
-**3️⃣ 펫톡 페이지**
+### 3️⃣ 펫톡 페이지
 
-- 펫톡 게시글 리스트, 게시글 작성, 게시글 상세페이지(이모지, 댓글반응), 펫타입 & 인기,최신순 정렬
+펫톡 게시글 리스트, 게시글 작성, 게시글 상세페이지(이모지, 댓글반응), 펫타입 & 인기,최신순 정렬</br>
+<img src="./pettalk.gif" width="350px"></br>
 
+<!--
   <details>
     <summary>프리뷰</summary>
-    <img src="./src/assets/readme/pettalk.gif" width="350px">
+    <img src="./pettalk.gif" width="350px">
   </details>
+-->
 
-**4️⃣ 인증**
+### 4️⃣ 인증
 
-- 로그인, 회원가입, 온보딩, 마이페이지
+로그인, 회원가입, 온보딩, 마이페이지</br>
+<img src="./login.gif" width="500px"></br>
 
+<!--
   <details>
     <summary>프리뷰</summary>
-    <img src="/src/assets/readme/login.gif" width="500px">
+    <img src="./login.gif" width="500px">
   </details>
+-->
 
-**5️⃣ 마이페이지**
+### 5️⃣ 마이페이지
 
-- 마이페이지 정보수정, 로그아웃, 회원탈퇴, 배송지 목록 & 등록
+마이페이지 정보수정, 로그아웃, 회원탈퇴, 배송지 목록 & 등록</br>
+<img src="./mypage.gif" width="500px"></br>
 
+<!--
   <details>
     <summary>프리뷰</summary>
-    <img src="./src/assets/readme/mypage.gif" width="500px">
+    <img src="./mypage.gif" width="500px">
   </details>
-
 -->
 
 </br>
